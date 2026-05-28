@@ -1,3 +1,4 @@
+Try Online Demo ： https://btamir0303-svg.github.io/CogUniverse/
 # CogUniverse: AI Knowledge Emergence System
 > Model your knowledge as a self-organizing complex system.
 ![Knowledge Network](network.png)
