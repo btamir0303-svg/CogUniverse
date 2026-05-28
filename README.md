@@ -1,3 +1,6 @@
+# CogUniverse: AI Knowledge Emergence System
+> Model your knowledge as a self-organizing complex system.
+![Knowledge Network](network.png)
 # CogUniverse
 AI-Powered Personal Knowledge Universe • Observe Knowledge Emergence
 
